@@ -1,0 +1,3 @@
+git add *  ---> adds all the changes from WD(working directory) to the SA(staging area)
+git add *.<file type> ---> <file type> example(txt, java, js etc..,) add all the mentioned filetype files from WD to the SA
+                          eg: git add *.txt
