@@ -9,4 +9,6 @@ Docker
 Ansible
 test fetch 
 test fetch --all
+test pull
+test pull --all
 
