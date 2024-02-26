@@ -1,0 +1,2 @@
+Password Authentication
+SSH Key Generation authentication -> ssh-keygen -t rsa -b 4096 -c monikapati25@gmail.com
