@@ -1,0 +1,6 @@
+git branch -a -> list out all the branches in local and remote
+git checkout <branch name>
+
+git checkout -b <branch name>
+
+git checkout <commitId> 
