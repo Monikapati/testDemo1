@@ -4,3 +4,5 @@ git checkout <branch name>
 git checkout -b <branch name>
 
 git checkout <commitId> 
+
+git checkout <tagname>
