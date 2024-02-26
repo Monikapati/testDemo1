@@ -7,4 +7,6 @@ git
 github
 Docker
 Ansible
+test fetch 
+test fetch --all
 
