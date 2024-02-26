@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import '/index.css';
 import { HelloWorld, Welcome } from './HelloWorld';
 
 function App() {
